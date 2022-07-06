@@ -1,0 +1,118 @@
+        .resume{
+           flex-direction: row;
+           border: 2px solid black;
+        } 
+       .about{
+           display:flex;
+           flex-direction: row;
+       }
+       .leftnav{
+        width:70%;
+        padding:10px;
+    }
+       .rightnav{
+           width:30%;
+           text-align: right;
+           padding:20px;
+       }
+       #pass img{
+        width: 150px;
+        height: 150px;
+       }
+       #email{
+           padding:10px;
+       } 
+       #mobile{
+        padding:10px;
+       }
+        #dob{
+        padding:10px;
+        }
+        .career{
+            padding:10px;
+        }
+        .education{
+            padding:10px;
+        }
+        .trainning{
+            padding:10px;
+        }
+        .technicalskills{
+            
+            padding:10px;
+        }
+        .hobbies{   
+            padding:10px;
+        }
+        .personal{ 
+            padding:10px;
+            list-style: none;
+        }
+        .declaration{
+            padding:10px;
+        }
+        .dateplace{
+            padding:10px;
+        }
+.tableheading{
+    display:flex;
+}
+.course{
+    margin:10px;
+    list-style: decimal;
+    text-align: center;
+}
+.specialization{
+    margin:10px;
+    list-style: none;
+    text-align: center;
+}
+.institution{
+    margin:10px;
+    list-style: none;
+    text-align: center;
+}
+.board{
+    margin:10px;
+    list-style: none;
+    text-align: center;
+}
+.passingyear{
+    margin:10px;
+    list-style: none;
+    text-align: center;
+}
+.marks{
+    margin:10px;
+    list-style: none;
+    text-align: center;
+}
+.specialization h5{
+    text-align: center;
+}
+.institution h5{
+    text-align: center;
+}
+.contact{
+    list-style: none;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.qualification h3{
+    margin:0;
+}
+.footername{
+    width:50%;
+    text-align: right;
+    padding:10px;
+}
+.dateplacefooter{
+    width: 50%;
+    padding:5px;
+}
+.career h3{
+    padding: 15px 0px;
+}
